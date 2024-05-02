@@ -61,8 +61,8 @@ export default function EditTodo(todo: Todo) {
         <DialogHeader>
           <DialogTitle>Edit Todo</DialogTitle>
           <DialogDescription>
-            Make changes to your todo item here. Click the save button when
-            you're done.
+            Make changes to your todo item here. Click the save button when you
+            are done.
           </DialogDescription>
         </DialogHeader>
         <div className="grid gap-4 py-4">

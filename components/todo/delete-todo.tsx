@@ -58,7 +58,7 @@ export default function DeleteTodo(todo: Todo) {
           </DialogDescription>
         </DialogHeader>
         <p className="text-sm font-small mt-2">
-          Type the todo title: <b>"{todo.title}"</b> to delete it
+          Type the todo title: <b>{todo.title}</b> to delete it
         </p>
         <Input
           type="text"
