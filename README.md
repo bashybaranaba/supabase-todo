@@ -1,5 +1,7 @@
 ## Supabase NEXT JS TODO
 
+Simple supabase Next js CRUD todo app
+
 First, run the development server:
 
 ```bash
